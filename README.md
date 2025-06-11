@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/nukIeer/nukIeer/main/nuclear_fuel_cycle.jpg" alt="Nuclear Research Laboratory" style="width:100%; max-width:800px; border-radius:10px;">
 </div>
@@ -75,4 +75,3 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=nukIeer&color=green&style=flat-square&label=PROFILE+VIEWS)
   
 </div>
-```
