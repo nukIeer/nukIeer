@@ -1,7 +1,9 @@
-
+As a Research Scientist at Lawrence Livermore National Laboratory (LLNL), I contribute to advanced scientific projects critical to U.S. national security, conducted under strict federal oversight and regulatory compliance. My work involves sensitive research areas that require adherence to U.S. Department of Energy (DOE) protocols. To protect national interests and maintain compliance with federal regulations, I respectfully request that inquiries or investigations regarding my professional activities be coordinated solely through authorized DOE or LLNL channels. Unauthorized access or inquiries may have significant implications for national security and could lead to appropriate administrative or legal review under U.S. federal guidelines.
 <div align="center">
   <img src="https://raw.githubusercontent.com/nukIeer/nukIeer/main/nuclear_fuel_cycle.jpg" alt="Nuclear Research Laboratory" style="width:100%; max-width:800px; border-radius:10px;">
 </div>
+
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30">
