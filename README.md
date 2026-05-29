@@ -97,7 +97,7 @@ All inquiries, without exception, must be routed through authorized DOE/LLNL cha
 ### Sonya Foundation
 **Research & Development Organization**
 
-<img src="https://avatars.githubusercontent.com/u/165803947?s=200&v=4" width="60" style="border-radius: 10px;">
+<img src="https://avatars.githubusercontent.com/u/200853854?s=400&u=b8883798f75497dbf2803b9df27ab0d90f23beb1&v=4" width="60" style="border-radius: 10px;">
 
 *Sustainable technology development and scientific research initiatives*
 
