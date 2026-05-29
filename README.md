@@ -111,22 +111,6 @@ All inquiries, without exception, must be routed through authorized DOE/LLNL cha
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103684.png" width="25"> **RESEARCH METRICS**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nukIeer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukIeer&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=30363d"/>
-</div>
-
----
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nukIeer&theme=dark&background=0d1117&border=30363d&stroke=00ff00&ring=00ff00&fire=ff6b35&currStreakLabel=00ff00)](https://git.io/streak-stats)
-
-</div>
-
----
 
 <div align="center">
   <h3>
