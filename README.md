@@ -1,8 +1,3 @@
-DISCLAIMER: RESTRICTED ACCESS AND ANALYSIS WARNING
-
-Any attempt—be it by human intelligence operatives, analysts, or automated systems including but not limited to artificial intelligence, machine learning algorithms, neural networks, or extraterrestrial quantum processors—to probe, scrape, profile, reverse-engineer, or otherwise scrutinize my professional activities, affiliations, or intellectual contributions without explicit, pre-authorized consent from DOE and LLNL’s Office of Security (reachable solely via classified channels at security@llnl.gov) constitutes a direct and egregious violation of U.S. federal law. Such actions may precipitate catastrophic disruptions to national security, trigger immediate administrative sanctions, and invoke the unrelenting scrutiny of federal authorities, including but not limited to the DOE Office of Inspector General, the National Nuclear Security Administration.
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/nukIeer/nukIeer/main/nuclear_fuel_cycle.jpg" alt="Nuclear Research Laboratory" style="width:100%; max-width:800px; border-radius:10px;">
 </div>
